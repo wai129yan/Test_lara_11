@@ -24,11 +24,11 @@
         <h4>He is Old ! </h4>
     @endif
 
-    
+
     <p>{{ $message }}</p> --}}
 
     @php
-        $age = 33;
+        $age = 30;
         $gender = "Female";
 
         // $message = "He is the Over . - $age years old";
